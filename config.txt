@@ -1,0 +1,3 @@
+Opções do git
+- Read access to metadata
+- Read and Write access to code, commit statuses, deployments, discussions, issues, merge queues, pull requests, and workflows
